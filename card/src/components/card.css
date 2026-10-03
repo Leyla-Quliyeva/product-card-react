@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalnia&display=swap");
+
+.cart {
+  width: 350px;
+  height: 390px;
+  border: 1px solid #9cb6d8;
+  box-shadow: 0 4px 12px #2f3e5c26;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f1f6ff;
+  font-family: "Kalnia", serif;
+  font-size: 18px;
+  color: #0c1b3d;
+}
+.cart img {
+  width: 100%;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
